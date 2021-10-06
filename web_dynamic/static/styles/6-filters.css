@@ -74,8 +74,12 @@ button:hover {
     margin-top: 0%;
 }
 
-.amenities .popover ul{
+.amenities .popover ul {
     margin: 0px;
+}
+
+.amenities input {
+  margin-right: 10px;
 }
 
 .locations .popover {
